@@ -34,9 +34,9 @@ function setup() {
     // create radio options
     radio = createRadio();
     radio.option("cool", 1);
-    radio.option("dog", 2);
-    radio.option("boo", 3);
-    radio.option("punk", 4);
+    radio.option("1", 2);
+    radio.option("b2", 3);
+    radio.option("p3", 4);
     radio.option("fog", 5);
 
     // styling radio
